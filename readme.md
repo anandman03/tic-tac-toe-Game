@@ -3,8 +3,8 @@ Implemented Tic-Tac-Toe Game using HTML, CSS and JavaScript.
 
 ## Views
 
-![Start Screen](https://drive.google.com/file/d/1xpBZb3sda2n6I_-CQNgSIFbQ8jtk2Ad8/view?usp=sharing)
+![Start Screen](https://github.com/anandman03/tic-tac-toe-Game/blob/master/images/start.PNG)
 
-![Game Screen](https://drive.google.com/file/d/1AKjOyNrdeqshUFIUsbRTqZ0gYKaBhR0x/view?usp=sharing)
+![Game Screen](https://github.com/anandman03/tic-tac-toe-Game/blob/master/images/game.PNG)
 
-![Game Screen](https://drive.google.com/file/d/1vbeh9z9jfIkyzxTY8br0jzSnA8AlF8bg/view?usp=sharing)
+![End Screen](https://github.com/anandman03/tic-tac-toe-Game/blob/master/images/end.PNG)
