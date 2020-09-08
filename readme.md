@@ -1,4 +1,7 @@
 # Tic Tac Toe Game
+
+[![CodeFactor](https://www.codefactor.io/repository/github/anandman03/tic-tac-toe-game/badge)](https://www.codefactor.io/repository/github/anandman03/tic-tac-toe-game)
+
 Implemented Tic-Tac-Toe Game using HTML, CSS and JavaScript.
 
 ## Views
