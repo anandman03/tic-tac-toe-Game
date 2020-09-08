@@ -3,7 +3,6 @@ console.log('Your JS is linked up. Be the person you needed when you were little
 // All variables and board section
 let currentPlayer = ''
 let gameStatus = true
-const size = 9
 
 let currentGameState = ['', '', '', '', '', '', '', '', '']
 

@@ -18,7 +18,7 @@ function claimWin() {
     document.querySelector('#status').style.visibility = 'hidden'
 
     const winner = document.querySelector('#winner')
-    winner.innerHTML = winMessage(currentPlayer)
+    winner.innerHTML = winMessage()
     gameStatus = false
 }
 
@@ -41,5 +41,5 @@ function checkDraw() {
 // Change player after each move
 function changeUser() {
     currentPlayer = (currentPlayer == 'X') ? 'O' : 'X'
-    printStatus(currentPlayer)
+    printStatus()
 }
